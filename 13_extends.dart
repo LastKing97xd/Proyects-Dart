@@ -38,6 +38,7 @@ class AirePlanta extends PlantaEnergia{
   @override
   void consumoEnergia(double monto){
     //energiaRestante -= monto;
+    //
   }
   
 }
